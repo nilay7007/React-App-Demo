@@ -1,0 +1,24 @@
+.card {
+  border-radius: 10px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+.expense-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  margin: 1rem 0;
+  background-color: rgb(77, 74, 74);
+}
+
+.date-item {
+  display: flex;
+  flex-direction: column !important;
+  background-color: rgb(34, 34, 34) !important;
+  justify-content: space-between;
+  border-radius: 10px;
+  align-items: center;
+  padding: 1em;
+  color: white;
+}

@@ -1,0 +1,8 @@
+.app-item {
+  display: flex;
+  flex-direction: column !important;
+  background-color: black !important;
+  justify-content: space-between;
+  border-radius: 10px;
+  color: white;
+}
